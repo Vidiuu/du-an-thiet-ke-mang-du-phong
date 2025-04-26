@@ -2,7 +2,7 @@
 
 **Thời gian thực hiện:** 09/2024 – 11/2024  
 **Thực hiện bởi:** Trương Nguyễn Vũ  
-**Công nghệ:** Cisco Packet Tracer, thiết bị Cisco, Linux Server  
+**Công nghệ:** Cisco Packet Tracer, thiết bị Cisco
 
 ---
 
@@ -14,14 +14,13 @@
 - Cấu hình HSRP đảm bảo dự phòng Default Gateway.
 - Cấu hình DHCP cấp phát IP tự động.
 - NAT nội bộ ra Internet, công bố dịch vụ Web/FTP Public IP.
-- Thiết lập VPN GRE giữa các Router chi nhánh.
-- Cấu hình Load Balancing và Routing dự phòng.
-- Tăng cường bảo mật bằng Access Control Lists (ACL).
 
 ---
 
 ## Tài liệu kèm theo:
-- 📄 [Mô tả chi tiết dự án (file Word)](./MANG%20DU%20PHONG.docx)
+- 📄 [Mô tả chi tiết dự án (MANG DU PHONG.docx)](./MANG%20DU%20PHONG.docx)
+- 📄 [File mô phỏng hệ thống mạng Packet Tracer (.pkt)](./TRIEN%20KHAI%20MANG%20DU%20PHONG%20CHO%20DOANH%20NGHIEP.pkt)
+
 
 *(Click vào link để tải về tài liệu hướng dẫn chi tiết từng bước cấu hình.)*
 
@@ -33,5 +32,3 @@
 - Đảm bảo kết nối an toàn giữa các chi nhánh.
 
 ---
-
-> *Dự án mô phỏng triển khai mạng thực tế với yêu cầu dự phòng, tối ưu hóa và bảo mật hệ thống.*
